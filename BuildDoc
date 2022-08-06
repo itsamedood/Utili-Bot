@@ -1,0 +1,8 @@
+[run]
+npm run start
+
+[debug]
+npm run debug
+
+[dev]
+npm run dev
